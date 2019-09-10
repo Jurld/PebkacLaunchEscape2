@@ -55,6 +55,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AssemblyVersion.tt</DependentUpon>
     </Compile>
+    <Compile Include="InstallChecker.cs" />
     <Compile Include="LaunchEscapeController.cs" />
     <Compile Include="PebkacLiftingSurface.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
